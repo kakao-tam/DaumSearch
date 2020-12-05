@@ -1,7 +1,7 @@
 <?php
 
  $url = "https://dapi.kakao.com/v2/search/web?query=test";
- $REST_API_KEY = "4408b5bb51bdf4c89879e933556a21e8"; 
+ $REST_API_KEY = "444444444444444444444444444444444444"; 
  $ch = curl_init();
  curl_setopt($ch, CURLOPT_URL, $url);
  curl_setopt($ch, CURLOPT_POST, false);
